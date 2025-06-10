@@ -2,7 +2,7 @@
 ##  ETL Extract Lab
 
 **Name:** Sevidzem Marilyn  
-**Student ID:** 669229
+
 
 ---
 
