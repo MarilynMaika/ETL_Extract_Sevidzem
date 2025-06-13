@@ -1,8 +1,8 @@
-hh
+
 ##  ETL Extract Lab
 
 **Name:** Sevidzem Marilyn  
-**Student ID:** 669229
+
 
 ---
 
@@ -34,6 +34,12 @@ The notebook shows:
 
 ### 2. Run the Jupyter notebook:
 Make sure you have Python and the required packages installed:
+### Screenshots
+
+![image](https://github.com/user-attachments/assets/72eccef7-dba7-4e56-9cf6-3487666a100b)
+![image](https://github.com/user-attachments/assets/05f6a928-4cac-40af-aa7c-96e12c37b7ee)
+
+
 
 
 
