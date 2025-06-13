@@ -39,6 +39,19 @@ Make sure you have Python and the required packages installed:
 ![image](https://github.com/user-attachments/assets/72eccef7-dba7-4e56-9cf6-3487666a100b)
 ![image](https://github.com/user-attachments/assets/05f6a928-4cac-40af-aa7c-96e12c37b7ee)
 
+##  Transformations Applied
+
+I applied the following transformations to both the full and incremental datasets:
+
+1. **Cleaning:** Removed duplicate records
+2. **Enrichment:** Added age group column based on user age
+3. **Structural:** Standardized datetime format for `last_updated`
+
+Transformed datasets are saved as:
+- `transformed_full.csv`
+- `transformed_incremental.csv`
+
+
 
 
 
